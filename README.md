@@ -5,7 +5,7 @@ style="margin: 0 10px;" >简体中文</a>
 <a href="https://github.com/Sjj1024/PakePlus/discussions/108">日本语</a>
 </h4>  
 <p align="center">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/pakeplus.png" width=138/>
+    <img src="https://github.com/Sjj1024/PakePlus/raw/main/app-icon.png" width=138/>
 </p>  
 <h1 align="center">PakePlus</h1>  
 <p align="center"><strong>Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes</strong></p>
@@ -196,7 +196,3 @@ All work is conducted openly on GitHub. Whether you are a core team member or an
  <p align="center" style="display:flex; justify-content: flex-start;">
     <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
  </p>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Sjj1024/PakePlus,Sjj1024/PakePlus-iOS,Sjj1024/PakePlus-Android&type=Date)](https://www.star-history.com/#Sjj1024/PakePlus&Sjj1024/PakePlus-iOS&Sjj1024/PakePlus-Android&Date)
